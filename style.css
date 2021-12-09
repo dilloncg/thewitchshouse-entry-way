@@ -1,0 +1,226 @@
+body{
+  background-image: url(entry-way.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: fixed;
+}
+
+.butterfly{
+  height: 100px;
+  margin-left: 650px;
+  margin-top: 400px;
+  position: fixed;
+}
+
+.faye2{
+  height: 10px;
+  width: 10px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 430px;
+  left: 400px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye2:hover{
+  transform: scale(2);
+}
+
+.faye3{
+  height: 15px;
+  width: 15px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 300px;
+  left: 800px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye3:hover{
+  transform: scale(2);
+}
+
+.butterfly2{
+  height: 200px;
+  transform:rotateY(180deg);
+}
+
+.faye8{
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 200px;
+  left: 500px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye8:hover{
+  transform: scale(2);
+}
+
+.faye9{
+  height: 13px;
+  width: 13px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 100px;
+  left: 400px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye9:hover{
+  transform: scale(2);
+}
+
+.faye4{
+  height: 9px;
+  width: 9px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 700px;
+  left: 900px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye4:hover{
+  transform: scale(2);
+}
+
+.faye5{
+  height: 14px;
+  width: 14px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 600px;
+  left: 800px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye5:hover{
+  transform: scale(2);
+}
+
+.faye6{
+  height: 17px;
+  width: 17px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 500px;
+  left: 1000px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye6:hover{
+  transform: scale(2);
+}
+
+.butterfly3{
+  height: 140px;
+  margin-left: 900px;
+  margin-top: 100px;
+  transform:rotateY(180deg);
+}
+
+.kitchen{
+  font-size: 30px;
+  margin-top: 1000px;
+  margin-left: 345px;
+  color: white;
+  background: brown;
+  border-radius: 10px;
+  padding: 5px;
+  opacity: 0;
+  text-decoration: none;
+}
+
+.kitchen:hover{
+  opacity: 1;
+}
+
+.lib{
+  font-size: 30px;
+  color: white;
+  background: brown;
+  border-radius: 10px;
+  padding: 5px;
+  margin-left: 1212px;
+  margin-right: 349px;
+  opacity: 0;
+  text-decoration: none;
+}
+
+.lib:hover{
+  opacity: 1;
+}
+
+/*.stairs{
+  font-size: 30px;
+  color: white;
+  background: brown;
+  border-radius: 10px;
+  padding: 5px;
+  margin-left: 690px;
+  margin-right: 690px;
+  opacity: 0;
+  text-decoration: none;
+}
+
+.stairs:hover{
+  opacity: 1;
+}*/
+
+.faye{
+  height: 10px;
+  width: 10px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 130px;
+  left: 900px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye:hover{
+  transform: scale(2);
+}
+
+.faye7{
+  height: 12px;
+  width: 12px;
+  border-radius: 10px;
+  background: white;
+  position: fixed;
+  top: 900px;
+  left: 200px;
+  opacity: 0.7;
+  z-index: 10;
+  transition: transform 0.5s;
+}
+
+.faye7:hover{
+  transform: scale(2);
+}
